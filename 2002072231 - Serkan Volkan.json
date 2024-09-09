@@ -1,0 +1,135 @@
+{
+  "CA": 148,
+  "PA": 200,
+  "WorldReputation": 5000,
+  "CurrentReputation": 7999,
+  "HomeReputation": 8000,
+  "ChairmanAttributes": {
+    "Business": 10,
+    "Interference": 10,
+    "Patience": 10,
+    "Resources": 10,
+    "Id": -1
+  },
+  "CoachingAttributes": {
+    "Attacking": 14,
+    "Defending": 14,
+    "Fitness": 14,
+    "GKDistribution": 8,
+    "GKHandling": 8,
+    "GKShotStopping": 8,
+    "Mental": 14,
+    "Player": 2,
+    "Tactical": 14,
+    "Technical": 13,
+    "ManManagement": 15,
+    "WorkingWithYoungsters": 13,
+    "DirtinessAllowance": 2,
+    "Versatility": 2,
+    "SetPieces": 13,
+    "Id": -1
+  },
+  "StaffMentalAttributes": {
+    "Adaptability": 2,
+    "Determination": 15,
+    "JudgingPlayerAbility": 15,
+    "JudgingPlayerPotential": 15,
+    "JudgingStaffAbility": 2,
+    "Negotiating": 2,
+    "LevelOfDiscipline": 15,
+    "Motivating": 15,
+    "Physiotherapy": 2,
+    "TacticalKnowledge": 2,
+    "Id": -1
+  },
+  "NonTacticalAttributes": {
+    "BuyingPlayers": 10,
+    "HardnessOfTraining": 10,
+    "MindGames": 10,
+    "SquadRotation": 10,
+    "Id": -1
+  },
+  "RolesAttributes": {
+    "AssistantManager": 1,
+    "Coach": 1,
+    "FitnessCoach": 1,
+    "GoalkeepingCoach": 1,
+    "Manager": 20,
+    "Physio": 1,
+    "Scout": 1,
+    "Chairman": 1,
+    "DirectorOfFootball": 1,
+    "HeadOfYouthDevelopment": 1,
+    "DataAnalyst": 1,
+    "SportsScientist": 1,
+    "LoanManager": 1,
+    "TechnicalDirector": 1,
+    "SetPieceCoach": 1,
+    "Id": -1
+  },
+  "TacticalAttributes": {
+    "Attacking": 10,
+    "Depth": 10,
+    "Directness": 10,
+    "Flamboyancy": 10,
+    "Flexibility": 10,
+    "FreeRoles": 10,
+    "Marking": 10,
+    "OffSide": 10,
+    "Pressing": 10,
+    "SittingBack": 10,
+    "Tempo": 10,
+    "UseOfPlaymaker": 10,
+    "UseOfSubstitutions": 10,
+    "Width": 10,
+    "Id": -1
+  },
+  "ScoutingAttributes": {
+    "JudgingPlayerData": 2,
+    "JudgingTeamData": 2,
+    "PresentingData": 2,
+    "Id": -1
+  },
+  "MedicalAttributes": {
+    "SportsScience": 2,
+    "Id": -1
+  },
+  "Knowledge": [
+    {
+      "Country.Id": 799,
+      "Value": 100
+    }
+  ],
+  "TrainingRating": {},
+  "Id": 2002072231,
+  "Born": "2003-09-24T00:00:00",
+  "Nation": {
+    "FIFAPosition": 40,
+    "FIFAScore": 1484,
+    "Id": 799,
+    "Name": "Türkiye",
+    "ShortName": "Türkiye",
+    "Reputation": 5900,
+    "FirstTeamManager": "Vincenzo Montella",
+    "TacticalAttributes": null
+  },
+  "IntCaps": 119,
+  "IntGoals": 44,
+  "U21Caps": 0,
+  "U21Goals": 0,
+  "CoachingQualifications": "ContinentalPro",
+  "PersonalityAttributes": {
+    "Adaptability": 15,
+    "Ambition": 10,
+    "Loyalty": 10,
+    "Pressure": 10,
+    "Professional": 10,
+    "Sportsmanship": 10,
+    "Temperament": 10,
+    "Controversy": 10,
+    "Id": -1
+  },
+  "DocumentType": "Staff",
+  "FmrteVersion": "24.4.0.32",
+  "Nation.Id": 799
+}
